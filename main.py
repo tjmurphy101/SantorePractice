@@ -9,3 +9,4 @@ fake_years = "123" #This is not a number
 print(F"fake years is {fake_years}")
 fake_years_2 = fake_years * 7
 print(F"fake years 2 is {fake_years_2}")
+print("We are nearly done today")
